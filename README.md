@@ -35,9 +35,15 @@
 
 
 
-<img src="./assets/programmer.png" height="100" style="margin-right:10px;"></img>
-<summary><b>:hammer_and_wrench: Languages and Tools</b></summary>
-<br>
+<img align='right' height='120' style="margin-right:20px" src='assets/programmer.png' alt='Programmer'>
+
+
 <p align="center">
-    [![My skills](http://skillicons.dev/icons?i=java,spring,hibernate,idea,postgres,postman,vscode,javascript,bitbucket,mysql&perline=5)](https://github.com/Lqrock/Lqrock/)
-</p>
+<br>
+
+
+
+ <summary><b>:hammer_and_wrench: Languages and Tools</b></summary><br>
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,idea,postgres,postman,vscode,javascript,bitbucket,mysql&perline=5)](https://github.com/Lqrock/Lqrock/)
