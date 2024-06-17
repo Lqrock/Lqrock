@@ -28,7 +28,43 @@
 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
+```text
+🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+🌆 Daytime                39 commits          █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+🌃 Evening                75 commits          ██████████░░░░░░░░░░░░░░░   40.98 % 
+🌙 Night                  64 commits          █████████░░░░░░░░░░░░░░░░   34.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Java                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+
+ Last Updated on 17/06/2024 08:38:11 UTC
 <!--END_SECTION:waka-->
 
 
