@@ -18,7 +18,7 @@
 
 
 ### I'm Siavash, your not-so-average Java developer
-- :zap: I'm a regular, everyday, not-so-normal developer whom works at [Tosan Solutions](https://www.tosan.com/en/) and loves everything about Java and challenging myself
+- :zap: I'm a regular, everyday, not-so-normal developer who works at [Tosan Solutions](https://www.tosan.com/en/) and loves everything about Java and challenging myself
 
 - :mailbox: You can reach me directly on [LinkedIn](https://www.linkedin.com/in/siavash-azarnia/) or [Telegram](https://t.me/Lqrock)
 
